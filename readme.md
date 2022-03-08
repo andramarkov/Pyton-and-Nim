@@ -1,7 +1,7 @@
 # Nim, as fast as C, as expressive as Python
 
-[Hendra E Wardi](https://andraelang.com)
-[Linkedin](https://www.linkedin.com/in/hendraekowardi)
+- [Hendra E Wardi](https://andraelang.com)
+- [Linkedin](https://www.linkedin.com/in/hendraekowardi)
 
 
 <img src="/logo.png"
