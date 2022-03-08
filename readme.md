@@ -1,5 +1,7 @@
 # Nim, as fast as C, as expressive as Python
 
+[Hendra E Wardi](https://andraelang.com)
+
 <img src="/logo.png"
      alt="python nim logo"
      style="float: left; margin-right: 10px;" />
