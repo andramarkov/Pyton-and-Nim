@@ -73,6 +73,13 @@ Jalankan dengan perintah `python app.py`
 
 Waktu eksekusi sekitar 1.25 detik, walaupun tidak secepat native nim (0.7x detik) tetapi tetap lebih cepat di banding Python + Numpy (3.8 detik)
 
+`note: abaikan saja tab problem, itu bukan error`
+
+<img src="/prob.png"
+     alt="prob"
+     style="float: left; margin-right: 10px;" />
+
+
 ### Spesifikasi:
 - Prosesor: Intel Core i5-3437U
 - RAM: 8GB
