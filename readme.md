@@ -1,6 +1,8 @@
 # Nim, as fast as C, as expressive as Python
 
-https://www.linkedin.com/posts/hendraekowardi_nim-as-fast-as-c-as-expressive-as-python-activity-6906632797143076864-b_3v
+<img src="/logo.png"
+     alt="python nim logo"
+     style="float: left; margin-right: 10px;" />
 
 Beberapa waktu belakangan ini, lagi suka eksplorasi bahasa pemrograman yang 'jarang' di cari, setidaknya jika mengacu pada posting lowongan pekerjaan di job portal lokal.
 
