@@ -1,0 +1,23 @@
+#------------------------------------------------------------------------------
+#          FILE:  mac-gitignore
+#   DESCRIPTION:  Global gitignore file for OS X systems
+#        AUTHOR:  Adam Walz <adam@adamwalz.net>
+#       VERSION:  1.0.2
+#
+# Make sure to edit linux-gitignore and windows-gitignore if the settings
+# changed are cross-platform
+#------------------------------------------------------------------------------
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+
+# Thumbnails
+._*
+
+# OS X Files that might appear on external disk
+.Spotlight-V100
+.Trashes
