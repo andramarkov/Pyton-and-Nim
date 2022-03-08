@@ -25,7 +25,7 @@ Dengan bantuan Numpy, eksekusi menjadi jauh lebih cepat, sekitar 3.8 detik
      style="float: left; margin-right: 10px;" />
 
 ### 3. Nim
-Perhatikan kode nya yang sangat mirip dengan Python, waktu eksekusi sekitar 0.7 detik (flag = --gc:refc --passC:"-flto" -d:release)
+Perhatikan kode nya yang sangat mirip dengan Python, waktu eksekusi sekitar 0.7 detik `(flag = --gc:refc --passC:"-flto" -d:release)`
 
 <img src="/nim/nim.png"
      alt="nim"
