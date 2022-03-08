@@ -1,5 +1,7 @@
 # Nim, as fast as C, as expressive as Python
 
+https://www.linkedin.com/posts/hendraekowardi_nim-as-fast-as-c-as-expressive-as-python-activity-6906632797143076864-b_3v
+
 Beberapa waktu belakangan ini, lagi suka eksplorasi bahasa pemrograman yang 'jarang' di cari, setidaknya jika mengacu pada posting lowongan pekerjaan di job portal lokal.
 
 Salah satu yang menarik perhatian saya adalah Nim yang sangat mirip dengan Python, menurut berbagai review, program yang di tulis dengan Nim ini sangat cepat bahkan (katanya) bisa mendekati bahkan setara eksekusi program yang di tulis dengan C.
